@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    github_activities (0.1.0)
+    github_activities (0.2.0)
       octokit
       thor
 
@@ -31,4 +31,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   1.16.1
+   1.16.4
